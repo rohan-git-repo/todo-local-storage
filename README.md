@@ -2,5 +2,7 @@
 
 To-do List Web Application build using HTML/CSS & JavaScript
 
-Tasks are stored in MongoDB Database, Express JS API is used to Create and Delete Tasks
+Tasks are stored in Browser Local Storage, so don't your clear browsing data
 
+#Deployed Site
+https://rohan-git-repo.github.io/todo-local-storage/
