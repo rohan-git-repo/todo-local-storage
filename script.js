@@ -71,7 +71,7 @@ form.addEventListener('submit', function(event) {
 
   createTaskRow(name, time, duration);
   updateTasksInLocalStorage()
-  saveTasks();
+  
 
   form.reset();
 });
