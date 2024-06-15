@@ -70,6 +70,7 @@ form.addEventListener('submit', function(event) {
   const duration = document.getElementById('duration').value;
 
   createTaskRow(name, time, duration);
+  updateTasksInLocalStorage()
   saveTasks();
 
   form.reset();
